@@ -1,0 +1,91 @@
+.webpage {
+  background-color: rgb(110, 197, 212);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.opening-message h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: fantasy !important;
+}
+
+#eHealthcare {
+  font-size: 50px;
+  padding-bottom: 50px;
+}
+
+.login-dialog {
+  border: 2px solid red;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  display: block;
+  margin: auto;
+  border-radius: 30px;
+  background-color: sandybrown;
+}
+
+#footer {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  position: fixed;
+  margin: 0;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  padding: 10px;
+}
+
+#gambar {
+  width: 200px;
+  height: 150px;
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.pict {
+  border: 3px solid black;
+  padding: 20px;
+  width: 500px;
+  margin: auto;
+  display: block;
+  overflow: scroll;
+  height: 500px;
+}
+
+.subpict {
+  border: 3px solid black;
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: black 10px 10px;
+}
+
+#openingStatement {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+#searchBox {
+  text-align: center;
+}
+
+#submit {
+  background-color: greenyellow;
+  border-radius: 25.5px;
+  width: 5em;
+  height: 2em;
+  cursor: pointer;
+}
